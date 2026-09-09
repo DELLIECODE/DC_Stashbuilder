@@ -187,3 +187,12 @@ Les signalements de bugs et les propositions d’amélioration sont les bienvenu
 ## Auteur
 
 Développé par **DellieCode**.
+
+
+Discord : [discord.gg/F2RnBehemx](https://discord.gg/F2RnBehemx)
+
+<img width="1886" height="1074" alt="Capture d&#39;écran 2026-09-09 134520" src="https://github.com/user-attachments/assets/5526ea33-c169-4eb5-a3a2-8ae3ce2bb07d" />
+<img width="1907" height="1057" alt="Capture d&#39;écran 2026-09-09 134553" src="https://github.com/user-attachments/assets/7156642b-0956-4cd7-b85f-f37085a38e20" />
+<img width="1897" height="1071" alt="Capture d&#39;écran 2026-09-09 134613" src="https://github.com/user-attachments/assets/71fa2b78-5e1d-451d-a506-57ceaaf636f4" />
+<img width="1900" height="1073" alt="Capture d&#39;écran 2026-09-09 134627" src="https://github.com/user-attachments/assets/04b1dcad-0f50-4f6a-a01f-49d185309e21" />
+
